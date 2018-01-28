@@ -1,0 +1,12 @@
+C:\University\4 курс\Долгов\CBC\CBC\bin\Debug\CBC.exe.config
+C:\University\4 курс\Долгов\CBC\CBC\bin\Debug\CBC.exe
+C:\University\4 курс\Долгов\CBC\CBC\bin\Debug\CBC.pdb
+C:\University\4 курс\Долгов\CBC\CBC\obj\Debug\CBC.exe
+C:\University\4 курс\Долгов\CBC\CBC\obj\Debug\CBC.pdb
+C:\University\4 курс\Долгов\CBC\CBC\obj\Debug\CBC.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\bin\Debug\CBC.exe.config
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\obj\Debug\CBC.exe
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\obj\Debug\CBC.pdb
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\bin\Debug\CBC.exe
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\bin\Debug\CBC.pdb
+C:\Users\Elena\Documents\__КНИГИ\Долгов\CBC\CBC\obj\Debug\CBC.csprojResolveAssemblyReference.cache
